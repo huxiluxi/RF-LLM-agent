@@ -1,0 +1,8 @@
+I want to design a rectangular patch antenna with microstrip feed.
+
+It should operate at 2.4 GHz.
+Be matched to 50 Ohm.
+The feed gap should be 1 mm.
+I want to use FR4 with er=4.3, h=1.5mm, tand=0.025.
+You compute the dimensions and feeding geometry using these informations.
+I want the simulation from 2 to 3 GHz.
