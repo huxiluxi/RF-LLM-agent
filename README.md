@@ -7,7 +7,7 @@ A Python-based framework that uses a **Large Language Model (LLM)** to assist in
 ## 🚀 Features
 
 - 🤖 **LLM-driven antenna design**  
-  Uses in-context learning (ICL) and prompt engineering to guide design iterations. :contentReference[oaicite:1]{index=1}
+  Uses in-context learning (ICL) and prompt engineering to guide design iterations.
 
 - 🔄 **Automated simulation loop**  
   Interfaces with CST Studio Suite via VBA macros to run simulations automatically.
@@ -28,7 +28,7 @@ Designing RF antennas typically requires manual iteration between simulation and
 3. Interprets the results  
 4. Refines the design
 
-This cycle continues until antenna performance improves or design goals are met. :contentReference[oaicite:2]{index=2}
+This cycle continues until antenna performance improves or design goals are met.
 
 ---
 
