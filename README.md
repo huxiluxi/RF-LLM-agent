@@ -42,8 +42,6 @@ This cycle continues until antenna performance improves or design goals are met.
 | `Prompt.txt` | Example prompts used for guiding the LLM. |
 | `RF EDA Promt (Python).txt` | Prompt template for Python automation. |
 
-*(Adjust this section if files change or you add more scripts.)*
-
 ---
 
 ## 🛠️ Getting Started
