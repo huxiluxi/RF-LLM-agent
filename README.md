@@ -49,11 +49,9 @@ This cycle continues until antenna performance improves or design goals are met.
 ## 🛠️ Getting Started
 
 ### Requirements
-
 - Python 3.8+
 - CST Studio Suite (with access to VBA scripting)
 - OpenAI API key (or other LLM provider)
-- Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
 
